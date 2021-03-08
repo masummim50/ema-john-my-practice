@@ -1,0 +1,13 @@
+.header-container{
+  background-color:rgb(70, 75, 79);
+}
+.header-container a{
+  color:white;
+  display: inline-block;
+  padding:20px 40px;
+  text-decoration: none;
+}
+.header-container a:hover{
+  background-color: white;
+  color:rgb(70, 75, 79);
+}
